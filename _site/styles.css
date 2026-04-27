@@ -1,1 +1,22 @@
-/* css styles */
+/* Custom teal/purple professional styling */
+:root {
+  --teal: #00b5ad;
+  --purple: #6a0dad;
+}
+
+.navbar {
+  background-color: #1a1a1a !important;
+}
+
+a:hover {
+  color: var(--teal) !important;
+}
+
+h1, h2, h3 {
+  color: var(--teal);
+}
+
+.btn {
+  background-color: var(--purple);
+  border-color: var(--purple);
+}
