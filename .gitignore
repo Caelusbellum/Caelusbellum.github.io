@@ -11,3 +11,14 @@ ENV/
 # Also ignore common build folders
 _site/
 *.html
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+ENV/
+
+# Also ignore common build folders
+_site/
+*.html
