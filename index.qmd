@@ -1,18 +1,39 @@
 ---
-title: "My Portfolio Website"
-author: Caelusbellum
-date: 2025 09 05
-format:
-    html:
-        theme: journal
-        toc: true
+title: "Oscar Quintero"
+subtitle: "Data-Driven Logistics Leader | Applied Business Analytics"
+page-layout: full
+title-block-banner: "#1a1a1a"
+title-block-banner-color: body
+---
+
+::: {.hero-text .text-center}
+**Turning complex operational data into clear strategic decisions.**
+
+20+ years leading logistics, resource management, and large-scale operations across the U.S., Europe, and the Middle East.  
+Currently pursuing a **Master of Science in Applied Business Analytics** at Boston University (expected Sep 2026).
+:::
+
+## Welcome
+
+I am a results-oriented logistics and operations professional with extensive experience managing multimillion-dollar budgets, complex deployments, and cross-functional teams. I specialize in transforming raw operational and financial data into actionable insights that drive efficiency and reduce risk.
+
+My background combines deep real-world operational leadership with growing expertise in modern data analytics, Python, SQL, and business intelligence tools. I’m particularly passionate about bridging traditional supply chain management with advanced analytics and AI to solve complex organizational challenges.
 
 ---
 
-# Hello, World!
+## Quick Highlights
 
-Welcome to my Quarto website.
+- **Budget & Resource Management**: Managed budgets exceeding **$296 million**
+- **Analytics Focus**: Building expertise in Python, SQL, Pandas, and automated reporting
+- **Leadership**: Led teams across multiple continents in high-stakes environments
+- **Bilingual**: English & Spanish
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+---
 
-![](./images/IMG_1583.jpg)
+::: {.callout-tip appearance="simple"}
+**Currently seeking opportunities** in Data Analytics, Supply Chain Analytics, or Logistics Operations roles (especially in Virginia, Alabama, or Texas).
+:::
+
+### Let's Connect
+
+[View My Projects →](projects.qmd) &nbsp;&nbsp;&nbsp; [Download CV](cv.pdf) &nbsp;&nbsp;&nbsp; [Contact Me](contact.qmd)
