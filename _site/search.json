@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Portfolio Website",
+    "title": "Oscar Quintero",
     "section": "",
-    "text": "Hello, World!\nWelcome to my Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Turning complex operational data into clear strategic decisions.\n20+ years leading logistics, resource management, and large-scale operations across the U.S., Europe, and the Middle East.\nCurrently pursuing a Master of Science in Applied Business Analytics at Boston University (expected Sep 2026)."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Oscar Quintero",
+    "section": "Welcome",
+    "text": "Welcome\nI am a results-oriented logistics and operations professional with extensive experience managing multimillion-dollar budgets, complex deployments, and cross-functional teams. I specialize in transforming raw operational and financial data into actionable insights that drive efficiency and reduce risk.\nMy background combines deep real-world operational leadership with growing expertise in modern data analytics, Python, SQL, and business intelligence tools. I’m particularly passionate about bridging traditional supply chain management with advanced analytics and AI to solve complex organizational challenges."
+  },
+  {
+    "objectID": "index.html#quick-highlights",
+    "href": "index.html#quick-highlights",
+    "title": "Oscar Quintero",
+    "section": "Quick Highlights",
+    "text": "Quick Highlights\n\nBudget & Resource Management: Managed budgets exceeding $296 million\nAnalytics Focus: Building expertise in Python, SQL, Pandas, and automated reporting\nLeadership: Led teams across multiple continents in high-stakes environments\nBilingual: English & Spanish\n\n\n\n\n\n\n\n\nCurrently seeking opportunities in Data Analytics, Supply Chain Analytics, or Logistics Operations roles (especially in Virginia, Alabama, or Texas).\n\n\n\n\nLet’s Connect\nView My Projects →     Download CV     Contact Me"
   }
 ]
