@@ -8,15 +8,18 @@ website:
     search: true
     left:
       - text: About
-        href: about.qmd
+        href: about.html
       - text: Projects
-        href: projects.qmd
+        href: projects.html
       - text: CV
-        href: cv.qmd
+        href: cv.html
       - text: Contact
-        href: contact.qmd
-  sidebar:
-    collapse: true
+        href: contact.html
+    right:
+      - icon: github
+        href: https://github.com/Caelusbellum
+      - icon: linkedin
+        href: https://www.linkedin.com/in/oscar-quintero-40038489
 
 format:
   html:
@@ -24,9 +27,10 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false
     code-copy: true
     code-overflow: wrap
+    smooth-scroll: true
 
 execute:
   freeze: auto
