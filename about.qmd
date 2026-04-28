@@ -30,4 +30,4 @@ I am particularly interested in roles that allow me to blend hands-on analytics 
 
 ---
 
-**Ready to connect?** [Contact me](contact.qmd)
+**Ready to connect?** [Contact me](contact.html)

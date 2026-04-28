@@ -66,4 +66,4 @@ USAREUR-AF/7A, G3 M&RA — Jun 2018 – May 2019
 
 ---
 
-**Ready to discuss opportunities?** [Contact Me](contact.qmd)
+**Ready to discuss opportunities?** [Contact Me](contact.html)

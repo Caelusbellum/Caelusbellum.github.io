@@ -36,4 +36,8 @@ My background combines deep real-world operational leadership with growing exper
 
 ### Let's Connect
 
-[View My Projects →](projects.qmd) &nbsp;&nbsp;&nbsp; [Download CV](cv.pdf) &nbsp;&nbsp;&nbsp; [Contact Me](contact.qmd)
+### Let's Connect
+
+[View My Projects →](projects.html) &nbsp;&nbsp;&nbsp; 
+[Download Full CV](oscar_quintero_cv.pdf) &nbsp;&nbsp;&nbsp; 
+[Contact Me](contact.html)
