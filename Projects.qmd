@@ -1,0 +1,55 @@
+---
+title: "Projects"
+---
+
+## Selected Projects
+
+Here are some of the key projects that highlight my ability to combine operational leadership with data analytics and process improvement.
+
+### 1. Automated Budget & Resource Reporting Dashboard
+**Role:** Lead Developer & Project Manager  
+**Tools:** Python, Pandas, Excel + Power Query, Automated Scheduling
+
+Built an automated reporting system that replaced manual Excel processes for tracking a $296M budget. The tool pulled data from multiple sources, cleaned and standardized it, then generated executive-ready reports.
+
+- Reduced report generation time from **3–4 days to under 2 hours**
+- Improved data accuracy by approximately **80%**
+- Used by senior leadership for monthly resource allocation decisions
+
+**Technologies:** Python, Pandas, NumPy, Jupyter, automated Python scripts
+
+---
+
+### 2. Cross-Functional Training & Deployment Optimization
+**Role:** Mission Support & Logistics Exercise Planner  
+**Tools:** Data analysis, scheduling optimization, stakeholder coordination
+
+Led the planning and execution of large-scale joint training exercises involving multiple countries and military branches. Developed analytical tools to optimize resource allocation and scheduling.
+
+- Coordinated resources for exercises involving **hundreds of personnel**
+- Created dashboards to track readiness metrics and identify bottlenecks
+- Improved deployment efficiency through better data visibility
+
+**Technologies:** SQL, Excel advanced modeling, data visualization
+
+---
+
+### 3. Supply Chain Process Automation (In Progress)
+**Role:** Graduate Analytics Student  
+**Tools:** Python, SQL, Polars, Jupyter Notebooks
+
+Current capstone-style project focused on applying modern data analytics to real-world logistics and supply chain challenges as part of the Applied Business Analytics program.
+
+**Technologies:** Python, SQL, Pandas/Polars, Data Visualization
+
+---
+
+### Other Notable Work
+- Resource integration and budget execution systems for U.S. Army Europe-Africa
+- Real-time operational tracking tools used during NATO exercises
+- Team performance and readiness analytics during multi-year overseas assignments
+
+---
+
+**Want to see the code or reports?**  
+Many of my projects are available on [GitHub](https://github.com/Caelusbellum) or available upon request.
