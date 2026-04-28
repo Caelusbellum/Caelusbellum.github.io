@@ -10,7 +10,7 @@ website:
       - text: About
         href: about.qmd
       - text: Projects
-        href: Projects.qmd
+        href: projects.qmd
       - text: CV
         href: cv.qmd
       - text: Contact
