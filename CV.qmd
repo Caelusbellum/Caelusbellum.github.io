@@ -1,0 +1,69 @@
+---
+title: "CV / Resume"
+---
+
+## Oscar David Nava Quintero, Jr.
+
+**Data-Driven Logistics & Operations Leader**  
+Richmond, VA | oscardaraquintero@gmail.com | [LinkedIn](https://www.linkedin.com/in/oscar-quintero-40038489) | [GitHub](https://github.com/Caelusbellum)
+
+---
+
+### Professional Summary
+
+Data-driven logistics and operations leader with more than 20 years of experience managing multimillion-dollar budgets, complex deployments, and cross-functional teams across the U.S., Europe, and the Middle East. Combines deep operational expertise with growing formal training in Applied Business Analytics. Known for turning complex data into actionable insights, improving efficiency, and earning trust in challenging environments. Bilingual in English and Spanish.
+
+[Download Full CV (PDF)](cv.pdf) {.btn .btn-primary}
+
+---
+
+### Education
+
+**M.S. Applied Business Analytics**  
+Boston University Metropolitan College — Expected September 2026
+
+**Advanced Operations Course**  
+U.S. Army Command and General Staff College — 2021
+
+**Intermediate Level Education**  
+U.S. Army Command and General Staff College — 2014
+
+**B.A. Spanish / Linguistics**  
+Texas Tech University, Lubbock, TX — 2007
+
+**A.A. Liberal Arts**  
+New Mexico Military Institute, Roswell, NM — 2001
+
+---
+
+### Professional Experience
+
+**Federal Resource Manager**  
+Joint Force Headquarters, New Mexico National Guard — Aug 2021 – Present
+
+**Regional Joint Combined NATO Exercises Section Chief**  
+U.S. Army Europe-Africa (USAREUR-AF), Wiesbaden, Germany — Sep 2020 – Aug 2021
+
+**Resource Integrations Branch Chief**  
+USAREUR-AF/7A, G3 Mobilization & Reserve Affairs — Apr 2020 – Sep 2020
+
+**Budget Team Chief**  
+USAREUR-AF/7A, G3 Mobilization & Reserve Affairs — Jun 2019 – Apr 2020
+
+**Mission Support & Logistics Exercise Planner**  
+USAREUR-AF/7A, G3 M&RA — Jun 2018 – May 2019
+
+*(Additional roles available in full CV PDF — including Company Commander, Battalion S4, and civilian logistics positions)*
+
+---
+
+### Technical Skills
+
+- **Programming & Analytics**: Python, SQL, Pandas, NumPy, Polars, Jupyter Notebooks
+- **Data Tools**: Excel Advanced (Power Query, Pivot Tables, VBA), Automated Reporting
+- **Project & Resource Management**: Budget Execution ($296M+), Scheduling Optimization, Risk Analysis
+- **Languages**: English (Native), Spanish (Fluent)
+
+---
+
+**Ready to discuss opportunities?** [Contact Me](contact.qmd)
