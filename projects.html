@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,14 +39,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e6fc6031e6633ebb71aa053684c89f48.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-208a17e25de094686a2e1074449845fd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-e6fc6031e6633ebb71aa053684c89f48.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-77d15b3b15f78dc47b7a70de3114b764.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-f9b30e1b9c266872faf4c9d49fc8b66b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-77d15b3b15f78dc47b7a70de3114b764.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -360,6 +360,46 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Technologies:</strong> Python, SQL, Pandas/Polars, Data Visualization</p>
 <hr>
 </section>
+</section>
+<section id="analytics-portfolio-simulation-risk" class="level2">
+<h2 class="anchored" data-anchor-id="analytics-portfolio-simulation-risk">Analytics Portfolio — Simulation &amp; Risk</h2>
+<p>Selected work from <strong>AD616 — Simulation and Risk Analysis</strong> at Boston University Metropolitan College. Each notebook is a self-contained, reproducible Python analysis framed around a business decision under uncertainty. All datasets and problem statements are anonymized or synthetic.</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-4">
+<div class="card h-100 p-3 shadow-sm">
+<p><strong>Risk Simulation</strong></p>
+<section id="quantifying-portfolio-risk-with-monte-carlo-npv-and-value-at-risk" class="level4">
+<h4 class="anchored" data-anchor-id="quantifying-portfolio-risk-with-monte-carlo-npv-and-value-at-risk">Quantifying Portfolio Risk with Monte Carlo NPV and Value-at-Risk</h4>
+<p>Modeled a multi-contract life-insurance portfolio using Monte Carlo simulation, Beta order statistics, and Weibull failure modeling to estimate expected NPV and 5% Value-at-Risk under uncertainty. Directly transferable to supply-chain scenarios where forecast error, supplier reliability, and inventory liability drive material financial exposure.</p>
+<p><em>Python · NumPy · SciPy · Matplotlib · Jupyter</em></p>
+<p><a href="notebooks/portfolio-var-nb.html">View notebook →</a></p>
+</section>
+</div>
+</div>
+<div class="g-col-12 g-col-md-4">
+<div class="card h-100 p-3 shadow-sm">
+<p><strong>Forecast Modeling</strong></p>
+<section id="distribution-fitting-and-correlated-revenue-forecasting" class="level4">
+<h4 class="anchored" data-anchor-id="distribution-fitting-and-correlated-revenue-forecasting">Distribution Fitting and Correlated Revenue Forecasting</h4>
+<p>Fit empirical demand distributions using chi-square goodness-of-fit, then compared independent vs.&nbsp;correlated Monte Carlo simulations to quantify how ignoring cross-site correlation understates aggregate risk. Directly applicable to correlated demand shocks and multi-node inventory planning.</p>
+<p><em>Python · SciPy · pandas · NumPy · Matplotlib</em></p>
+<p><a href="notebooks/distribution-fitting-nb.html">View notebook →</a></p>
+</section>
+</div>
+</div>
+<div class="g-col-12 g-col-md-4">
+<div class="card h-100 p-3 shadow-sm">
+<p><strong>Bayesian Inference</strong></p>
+<section id="bayesian-parameter-estimation-with-metropolis-hastings-mcmc" class="level4">
+<h4 class="anchored" data-anchor-id="bayesian-parameter-estimation-with-metropolis-hastings-mcmc">Bayesian Parameter Estimation with Metropolis-Hastings MCMC</h4>
+<p>Implemented a Metropolis-Hastings sampler from first principles to estimate posterior distributions, then ran prior-sensitivity analysis to show how prior choice affects the credible interval. Foundational for demand forecasting, supplier lead-time estimation, and any decision where prior operational knowledge updates as new signal arrives.</p>
+<p><em>Python · NumPy · SciPy · Matplotlib · Jupyter</em></p>
+<p><a href="notebooks/bayesian-mcmc-nb.html">View notebook →</a></p>
+</section>
+</div>
+</div>
+</div>
+<hr>
 <section id="other-notable-work" class="level3">
 <h3 class="anchored" data-anchor-id="other-notable-work">Other Notable Work</h3>
 <ul>
