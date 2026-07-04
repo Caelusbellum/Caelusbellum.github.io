@@ -46,7 +46,7 @@ Current capstone-style project focused on applying modern data analytics to real
 
 ## Analytics Portfolio — Simulation & Risk
 
-Selected work from **AD616 — Simulation and Risk Analysis** at Boston University Metropolitan College. Each notebook is a self-contained, reproducible Python analysis framed around a business decision under uncertainty. All datasets and problem statements are anonymized or synthetic.
+Selected work from **AD616 — Enterprise Risk Analytics** at Boston University Metropolitan College. Each notebook is a self-contained, reproducible Python analysis framed around a business decision under uncertainty. All datasets and problem statements are anonymized or synthetic.
 
 ::: {.grid}
 
