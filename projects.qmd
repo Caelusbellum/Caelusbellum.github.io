@@ -44,6 +44,58 @@ Current capstone-style project focused on applying modern data analytics to real
 
 ---
 
+## Analytics Portfolio — Simulation & Risk
+
+Selected work from **AD616 — Simulation and Risk Analysis** at Boston University Metropolitan College. Each notebook is a self-contained, reproducible Python analysis framed around a business decision under uncertainty. All datasets and problem statements are anonymized or synthetic.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .p-3 .shadow-sm}
+**Risk Simulation**
+
+#### Quantifying Portfolio Risk with Monte Carlo NPV and Value-at-Risk
+
+Modeled a multi-contract life-insurance portfolio using Monte Carlo simulation, Beta order statistics, and Weibull failure modeling to estimate expected NPV and 5% Value-at-Risk under uncertainty. Directly transferable to supply-chain scenarios where forecast error, supplier reliability, and inventory liability drive material financial exposure.
+
+*Python · NumPy · SciPy · Matplotlib · Jupyter*
+
+[View notebook →](notebooks/portfolio-var-nb.html)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .p-3 .shadow-sm}
+**Forecast Modeling**
+
+#### Distribution Fitting and Correlated Revenue Forecasting
+
+Fit empirical demand distributions using chi-square goodness-of-fit, then compared independent vs. correlated Monte Carlo simulations to quantify how ignoring cross-site correlation understates aggregate risk. Directly applicable to correlated demand shocks and multi-node inventory planning.
+
+*Python · SciPy · pandas · NumPy · Matplotlib*
+
+[View notebook →](notebooks/distribution-fitting-nb.html)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .p-3 .shadow-sm}
+**Bayesian Inference**
+
+#### Bayesian Parameter Estimation with Metropolis-Hastings MCMC
+
+Implemented a Metropolis-Hastings sampler from first principles to estimate posterior distributions, then ran prior-sensitivity analysis to show how prior choice affects the credible interval. Foundational for demand forecasting, supplier lead-time estimation, and any decision where prior operational knowledge updates as new signal arrives.
+
+*Python · NumPy · SciPy · Matplotlib · Jupyter*
+
+[View notebook →](notebooks/bayesian-mcmc-nb.html)
+:::
+:::
+
+:::
+
+---
+
 ### Other Notable Work
 - Resource integration and budget execution systems for U.S. Army Europe-Africa
 - Real-time operational tracking tools used during NATO exercises
