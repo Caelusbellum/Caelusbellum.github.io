@@ -22,3 +22,5 @@ ENV/
 # Also ignore common build folders
 _site/
 *.html
+!notebooks/*.html
+
